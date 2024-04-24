@@ -135,3 +135,6 @@ Judas Lisp
 White SnakeCase
 Mayhelm
 The Pretty RESTless
+Tenacious C
+Puddle of MUD
+Bytesteaks
